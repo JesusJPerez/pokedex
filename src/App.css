@@ -1,0 +1,194 @@
+/* === COLORES DE LA CARD === */
+  
+  /* FIRE  */
+  .fire-header {
+    background: var(--fire-header);
+  }
+  
+  
+  
+  .fire-text {
+    color: var(--fire-text);
+  }
+  
+  /* WATER */
+  
+  .water-header {
+    background: var(--water-header);
+  }
+  
+  
+  .water-text {
+    color: var(--water-text);
+  }
+  
+  /* GRASS */
+  
+  .grass-header {
+    background: var(--grass-header);
+  }
+  
+  
+  .grass-text {
+    color: var(--grass-text);
+  }
+  
+  /* BUG */
+  
+  .bug-header {
+    background: var(--bug-header);
+  }
+  
+  
+  .bug-text {
+    color: var(--bug-text);
+  }
+  
+  /* NORMAL */
+  
+  .normal-header {
+    background: var(--normal-header);
+  }
+  
+  
+  .normal-text {
+    color: var(--normal-text);
+  }
+  
+  /* POISON */
+  
+  .poison-header {
+    background: var(--poison-header);
+  }
+  
+  
+  .poison-text {
+    color: var(--poison-text);
+  }
+  
+  /* ELECTRIC */
+  
+  .electric-header {
+    background: var(--electric-header);
+  }
+  
+  
+  .electric-text {
+    color: var(--electric-text);
+  }
+  
+  /* GROUND */
+  
+  .ground-header {
+    background: var(--ground-header);
+  }
+  
+  
+  .ground-text {
+    color: var(--ground-text);
+  }
+  
+  /* FAIRY */
+  
+  .fairy-header {
+    background: var(--fairy-header);
+  }
+  
+  
+  .fairy-text {
+    color: var(--fairy-text);
+  }
+  
+  
+  
+  /* FIGHTING */
+  
+  .fighting-header {
+    background: var(--fighting-header);
+  }
+  
+  
+  .fighting-text {
+    color: var(--fighting-text);
+  }
+  
+  /* PSYCHIC */
+  
+  .psychic-header {
+    background: var(--psychic-header);
+  }
+  
+  
+  .psychic-text {
+    color: var(--psychic-text);
+  }
+  
+  
+  /* ROCK */
+  
+  .rock-header {
+    background: var(--rock-header);
+  }
+  
+  
+  .rock-text {
+    color: var(--rock-text);
+  }
+  
+  
+  
+  /* GHOST */
+  
+  .ghost-header {
+    background: var(--ghost-header);
+  }
+  
+  
+  .ghost-text {
+    color: var(--ghost-text);
+  }
+  
+  /* ICE */
+  
+  .ice-header {
+    background: var(--ice-header);
+  }
+  
+  
+  .ice-text {
+    color: var(--ice-text);
+  }
+  
+  /* DRAGON */
+  
+  .dragon-header {
+    background: var(--dragon-header);
+  }
+  
+  
+  .dragon-text {
+    color: var(--dragon-text);
+  }
+  
+  
+  /* DARK */
+  
+  .dark-header {
+    background: var(--dark-header);
+  }
+  
+  
+  .dark-text {
+    color: var(--dark-text);
+  }
+  
+  /* steel */
+  
+  .steel-header {
+    background: var(--steel-header);
+  }
+  
+  
+  .steel-text {
+    color: var(--steel-text);
+  }

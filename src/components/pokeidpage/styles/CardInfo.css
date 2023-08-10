@@ -1,0 +1,134 @@
+.pokeidpage_card{
+    width: 100%;
+    padding: 0.2em;
+    margin: 10em 0;
+    border-radius: 0.3em;
+    box-shadow: 0 0 10px #ccc;
+}
+
+.pokeidpage_imge{
+    width: 100%;
+    height: 200px;
+    position: relative;
+    border-radius: 0.3em 0.3em 0 0 ;
+}
+
+.pokeidpage_img{
+    width: 100%;
+    max-width: 300px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0.5em;
+}
+
+.pokeidpage_id{
+    margin: 0 auto;
+    font-size: 2.5rem;
+    border: 1px solid black;
+    width: max-content;
+    margin-top: 0.5em;
+    padding: 0.2em;
+}
+
+.pokeidpage_name{
+    text-align: center;
+    padding: 0.8em ;
+    text-transform: capitalize;
+}
+
+.pokeidpage_list_size{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.pokeidpage_list_item{
+    text-align: center;
+    line-height: 2em;
+}
+
+.item_size{
+    color: #aaa;
+}
+
+.item_value{
+    font-size: 1.5rem;
+    font-weight: 800;
+}
+
+.container_ul{
+    width: 100%;
+    justify-items: center;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 2em;
+}
+
+.ul_name{
+    text-align: center;
+    width: 100%;
+    padding: 0.3em;
+}
+
+.ul_info{
+    display: flex;
+    gap: 1em;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.li_info{
+    width: max-content;
+    padding: 0.1em 0.5em;
+    border: 1px solid black;
+    font-size: 1.3rem;
+    border-radius: 5px;
+}
+
+.pokeid_contaiter_state{
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    margin-top: 4rem;
+}
+
+.pokeid_state{
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.hr{
+    width: 100%;
+}
+
+.container_state_info{
+    padding: 1em;
+}
+
+.state_info{
+    display: flex;
+    justify-content: space-between;
+}
+
+.state_info_name{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.state_info_value{
+    font-size: 1.5rem;
+}
+
+.progresbar{
+    width: 100%;
+    height: 2em;
+    background-color: #d1cbcbce;
+    margin-bottom: 0.5em;
+}
+
+.progres{
+    height: 100%;
+    background-color: red;
+    transition: 1s ease;
+}

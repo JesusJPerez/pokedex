@@ -1,0 +1,117 @@
+.homepage-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 8em;
+    width: 100%;
+    height: 100%;
+}
+
+.homepage{
+    margin-top: 10px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.homepage_img{
+    justify-content: center;
+    position: relative;
+    width: 300px;
+    }
+
+.homepage_title{
+    color: #FE1936;
+    text-align: center;
+    font-family: Inter;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.homepage_title2{
+    color: #FE1936;
+    text-align: center;
+    font-family: Inter;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.homepage_info{
+    color: #302F2F;
+    text-align: center;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 10px;
+}
+
+.homepage_button_info{
+    width: 400px;
+    height: 40px;
+    flex-shrink: 0;
+    background: #FFF;
+    box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.15);
+    margin-top: 30px;
+}
+
+.homepage_button{
+    width: 200px;
+    height: 40px;
+    flex-shrink: 0;
+    color: white;
+    background: #FE1936;
+    box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.15);
+    margin-top: 10px;
+}
+
+.home_footer{
+    height: 60px;
+    background: #FE1936;
+    display: flex;
+    position: absolute;
+    align-items: end;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    }
+
+.home_footer_line{
+    height: 30px;
+    width: 100%;
+    background: black;
+    position: relative;
+}
+
+.home_footer_circle{
+    border: 7px solid black;
+    background: white;
+    width: 55px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    position: absolute;
+    left: 50%;
+    transition: translatex(-50%);
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home_footer_circle_center{
+    border: 6px solid black;
+    background: rgb(95, 93, 93) ;
+    width: 25px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

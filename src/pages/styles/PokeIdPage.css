@@ -1,0 +1,29 @@
+.pokeid_body{
+padding: 0 6em;
+}
+
+.movements{
+    width: 100%;
+    border-radius: 0.3em;
+    box-shadow: 0 0 0.7em #ccc;
+    padding: 1em;  
+}
+
+.movements_name{
+    font-size: 3rem;
+    font-weight: 500;
+    padding: 1em 0;
+}
+
+.movements_list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+}
+
+.movements_list_value{
+    border-radius: 0.8em;
+    box-shadow: 0 0 0.5em #ccc ;
+    padding: 0.3em 0.5em;
+    background-color: #aaa3;
+}
